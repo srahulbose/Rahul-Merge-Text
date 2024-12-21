@@ -48,13 +48,3 @@ If you're looking for similar functionality or additional features, consider the
 - **Website**: [Text Merge](http://www.maliska.net/mal/)
 
 Thank you for using **Rahul Merge Text**! Together, we can make file management easier and more efficient! ✨
-```
-
-### Summary of Changes:
-- **Emojis Added to Steps**: Emojis have been integrated into each usage step for better visual engagement at the beginning and midpoints of the instructions.
-
-### Next Steps:
-1. **Save the Updated Document**: Place this content into your `README.md` file.
-2. **Share with Users**: Distribute it alongside your application for guidance and support.
-
-If you need any more adjustments or further information, feel free to ask!
